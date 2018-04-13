@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "656775202283",
+    "firebase_url": "https://bookie-f5d3e.firebaseio.com",
+    "project_id": "bookie-f5d3e",
+    "storage_bucket": "bookie-f5d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656775202283:android:3769fa77d9d3c91e",
+        "android_client_info": {
+          "package_name": "com.example.hyndavirenikunta.bookie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656775202283-gpf7l1g6n2mug30u7q6l05vg29ciiopl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyndavirenikunta.bookie",
+            "certificate_hash": "8537b2579c3814ff8c04513b14cb950821e63c7a"
+          }
+        },
+        {
+          "client_id": "656775202283-rli2ofdqqdrd8vlrj1r05kh12smabau6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkERs9J-rUDesdjbG3xaUh8M73lzpSclE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656775202283-rli2ofdqqdrd8vlrj1r05kh12smabau6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656775202283:android:a39ff1b250b6d231",
+        "android_client_info": {
+          "package_name": "com.example.hyndavirenikunta.optionmenututorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656775202283-81cm25286eok5gk5ptqqb6asm3mt1v2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyndavirenikunta.optionmenututorial",
+            "certificate_hash": "8537b2579c3814ff8c04513b14cb950821e63c7a"
+          }
+        },
+        {
+          "client_id": "656775202283-rli2ofdqqdrd8vlrj1r05kh12smabau6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkERs9J-rUDesdjbG3xaUh8M73lzpSclE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656775202283-rli2ofdqqdrd8vlrj1r05kh12smabau6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656775202283:android:10497925209dacf9",
+        "android_client_info": {
+          "package_name": "in.ac.vnrvjiet.www.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656775202283-lh3ano1dcq0l1lt3qrfv3usfrngnaslq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.vnrvjiet.www.book",
+            "certificate_hash": "36ed5404ed67345f56676db7d13410e1002d6513"
+          }
+        },
+        {
+          "client_id": "656775202283-rli2ofdqqdrd8vlrj1r05kh12smabau6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkERs9J-rUDesdjbG3xaUh8M73lzpSclE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656775202283-rli2ofdqqdrd8vlrj1r05kh12smabau6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656775202283:android:2030607b20ac1f15",
+        "android_client_info": {
+          "package_name": "in.ac.vnrvjiet.www.bookie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656775202283-ofbjhis2cplta5nc0c0rd4c3bg86ukgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.vnrvjiet.www.bookie",
+            "certificate_hash": "36ed5404ed67345f56676db7d13410e1002d6513"
+          }
+        },
+        {
+          "client_id": "656775202283-rli2ofdqqdrd8vlrj1r05kh12smabau6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkERs9J-rUDesdjbG3xaUh8M73lzpSclE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656775202283-rli2ofdqqdrd8vlrj1r05kh12smabau6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

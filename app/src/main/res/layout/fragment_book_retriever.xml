@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hyndavirenikunta.bookie.BookRetriever"
+    android:background="@drawable/bg"
+    android:id="@+id/book_retriever_frame"
+    >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <android.support.v7.widget.SearchView
+        android:id="@+id/books_search_view"
+        android:paddingTop="10dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/bg_white_rounded"
+        android:queryHint="Enter BookName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/books_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    </LinearLayout>
+
+</FrameLayout>
